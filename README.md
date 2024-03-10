@@ -2,7 +2,7 @@
 A Small and Simple python script to turn midis into microbit tones
 
 Enter The microbit website and then
-go into python mode and paste the output out
+go into python mode and paste the output
 https://makecode.microbit.org/
 
 
